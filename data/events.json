@@ -1,0 +1,26 @@
+[
+  {
+    "id": "league-harbor",
+    "title": "vs Harbor Athletic",
+    "type": "League match",
+    "startsAt": "2026-10-10T19:00:00.000Z"
+  },
+  {
+    "id": "trials-attack",
+    "title": "Attacker trials",
+    "type": "Trials",
+    "startsAt": "2026-10-14T18:30:00.000Z"
+  },
+  {
+    "id": "cup-redline",
+    "title": "vs Redline Esports",
+    "type": "Cup",
+    "startsAt": "2026-10-21T19:00:00.000Z"
+  },
+  {
+    "id": "vod-review",
+    "title": "VOD review",
+    "type": "Community",
+    "startsAt": "2026-11-02T18:00:00.000Z"
+  }
+]

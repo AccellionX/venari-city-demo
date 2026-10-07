@@ -1,0 +1,178 @@
+[
+  {
+    "id": "nightshift",
+    "number": 1,
+    "gamertag": "nightshift.",
+    "position": "GK",
+    "appearances": 24,
+    "goals": 0,
+    "assists": 0,
+    "memberSince": "2024-06-02",
+    "ratings": [7.1, 6.8, 7.6, 6.9, 7.4]
+  },
+  {
+    "id": "gloves-only",
+    "number": 13,
+    "gamertag": "GlovesOnly",
+    "position": "GK",
+    "appearances": 18,
+    "goals": 0,
+    "assists": 1,
+    "memberSince": "2025-01-18",
+    "ratings": [6.4, 6.9, 7.2, 6.6, 7.0]
+  },
+  {
+    "id": "slide-rio",
+    "number": 2,
+    "gamertag": "SlideRio",
+    "position": "DEF",
+    "appearances": 26,
+    "goals": 1,
+    "assists": 3,
+    "memberSince": "2024-03-11",
+    "ratings": [6.8, 7.0, 7.3, 6.7, 7.1]
+  },
+  {
+    "id": "overlap-dez",
+    "number": 3,
+    "gamertag": "OverlapDez",
+    "position": "DEF",
+    "appearances": 23,
+    "goals": 1,
+    "assists": 5,
+    "memberSince": "2024-05-14",
+    "ratings": [7.2, 6.9, 7.5, 7.8, 7.0]
+  },
+  {
+    "id": "jinxed-cb",
+    "number": 4,
+    "gamertag": "JinxedCB",
+    "position": "DEF",
+    "appearances": 22,
+    "goals": 2,
+    "assists": 1,
+    "memberSince": "2023-11-02",
+    "ratings": [6.6, 7.4, 6.8, 7.1, 6.9]
+  },
+  {
+    "id": "brick-lane",
+    "number": 5,
+    "gamertag": "BrickLane5",
+    "position": "DEF",
+    "appearances": 20,
+    "goals": 0,
+    "assists": 1,
+    "memberSince": "2024-08-20",
+    "ratings": [6.5, 6.8, 7.0, 6.4, 6.9]
+  },
+  {
+    "id": "last-ditch",
+    "number": 15,
+    "gamertag": "LastDitch_",
+    "position": "DEF",
+    "appearances": 12,
+    "goals": 0,
+    "assists": 0,
+    "memberSince": "2025-09-01",
+    "ratings": [6.2, 6.5, 6.8, 6.4, 6.7]
+  },
+  {
+    "id": "hollow-cdm",
+    "number": 6,
+    "gamertag": "HollowCDM",
+    "position": "MID",
+    "appearances": 26,
+    "goals": 2,
+    "assists": 3,
+    "memberSince": "2023-08-30",
+    "ratings": [7.0, 7.3, 6.9, 7.4, 7.2]
+  },
+  {
+    "id": "tempo-nia",
+    "number": 8,
+    "gamertag": "TempoNia",
+    "position": "MID",
+    "appearances": 25,
+    "goals": 5,
+    "assists": 7,
+    "memberSince": "2024-02-09",
+    "ratings": [7.4, 7.8, 7.1, 8.0, 7.6]
+  },
+  {
+    "id": "silent-cam",
+    "number": 10,
+    "gamertag": "SilentCam",
+    "position": "MID",
+    "appearances": 21,
+    "goals": 6,
+    "assists": 6,
+    "memberSince": "2024-10-03",
+    "ratings": [7.2, 6.8, 7.9, 7.5, 8.1]
+  },
+  {
+    "id": "press-king",
+    "number": 16,
+    "gamertag": "PressKing",
+    "position": "MID",
+    "appearances": 16,
+    "goals": 3,
+    "assists": 4,
+    "memberSince": "2025-04-12",
+    "ratings": [6.7, 7.1, 6.9, 7.3, 6.8]
+  },
+  {
+    "id": "half-space",
+    "number": 18,
+    "gamertag": "HalfSpace",
+    "position": "MID",
+    "appearances": 14,
+    "goals": 2,
+    "assists": 4,
+    "memberSince": "2025-06-22",
+    "ratings": [6.6, 7.0, 6.8, 7.2, 6.9]
+  },
+  {
+    "id": "cut-in-yuna",
+    "number": 7,
+    "gamertag": "CutInYuna",
+    "position": "ATT",
+    "appearances": 22,
+    "goals": 8,
+    "assists": 3,
+    "memberSince": "2024-07-19",
+    "ratings": [7.3, 6.9, 7.8, 7.4, 8.0]
+  },
+  {
+    "id": "vnr-kova",
+    "number": 9,
+    "gamertag": "VNR Kova",
+    "position": "ATT",
+    "appearances": 42,
+    "goals": 31,
+    "assists": 18,
+    "memberSince": "2023-03-04",
+    "ratings": [8.7, 9.2, 8.4, 9.5, 8.9]
+  },
+  {
+    "id": "far-post-eli",
+    "number": 11,
+    "gamertag": "FarPostEli",
+    "position": "ATT",
+    "appearances": 18,
+    "goals": 6,
+    "assists": 2,
+    "memberSince": "2024-12-01",
+    "ratings": [6.9, 7.4, 7.0, 7.6, 7.2]
+  },
+  {
+    "id": "super-sub-jay",
+    "number": 19,
+    "gamertag": "SuperSubJay",
+    "position": "ATT",
+    "appearances": 11,
+    "goals": 4,
+    "assists": 1,
+    "memberSince": "2025-08-08",
+    "ratings": [6.8, 7.5, 6.6, 7.1, 7.4]
+  }
+]

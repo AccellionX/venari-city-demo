@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2026-10-05-northbank",
+    "playedAt": "2026-10-05",
+    "opponent": "Northbank",
+    "home": true,
+    "goalsFor": 3,
+    "goalsAgainst": 1,
+    "competition": "League"
+  },
+  {
+    "id": "2026-10-03-harbor",
+    "playedAt": "2026-10-03",
+    "opponent": "Harbor Athletic",
+    "home": false,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "competition": "League"
+  },
+  {
+    "id": "2026-10-01-redline",
+    "playedAt": "2026-10-01",
+    "opponent": "Redline Esports",
+    "home": true,
+    "goalsFor": 2,
+    "goalsAgainst": 4,
+    "competition": "Cup"
+  },
+  {
+    "id": "2026-09-28-lowfield",
+    "playedAt": "2026-09-28",
+    "opponent": "Lowfield",
+    "home": false,
+    "goalsFor": 4,
+    "goalsAgainst": 0,
+    "competition": "League"
+  },
+  {
+    "id": "2026-09-26-kingsway",
+    "playedAt": "2026-09-26",
+    "opponent": "Kingsway",
+    "home": true,
+    "goalsFor": 2,
+    "goalsAgainst": 1,
+    "competition": "League"
+  },
+  {
+    "id": "2026-09-22-oak",
+    "playedAt": "2026-09-22",
+    "opponent": "Oak & Iron",
+    "home": false,
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "competition": "League"
+  },
+  {
+    "id": "2026-09-19-metro",
+    "playedAt": "2026-09-19",
+    "opponent": "Metro Vale",
+    "home": true,
+    "goalsFor": 3,
+    "goalsAgainst": 3,
+    "competition": "League"
+  },
+  {
+    "id": "2026-09-15-static",
+    "playedAt": "2026-09-15",
+    "opponent": "Static FC",
+    "home": false,
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "competition": "League"
+  }
+]

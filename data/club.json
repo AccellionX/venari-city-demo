@@ -1,0 +1,18 @@
+{
+  "status": "online",
+  "league": "Division 1",
+  "season": "2026",
+  "position": 2,
+  "played": 42,
+  "wins": 27,
+  "draws": 8,
+  "losses": 7,
+  "goalsFor": 71,
+  "goalsAgainst": 44,
+  "twitch": "https://twitch.tv/venaricity",
+  "socials": [
+    { "label": "Discord", "href": "https://discord.gg/venaricity" },
+    { "label": "X", "href": "https://x.com/venaricity" },
+    { "label": "YouTube", "href": "https://youtube.com/@venaricity" }
+  ]
+}

@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+:root {
+  --club-primary: #0c1f17;
+  --club-accent: #d6ff3c;
+  --ink: #f4f1e8;
+  --muted: rgb(244 241 232 / 0.64);
+  --line: rgb(244 241 232 / 0.14);
+  --loss: #ff6b5a;
+  --draw: #d9d3c5;
+}
+
+@theme inline {
+  --font-sans: var(--font-outfit), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-barlow), "Arial Narrow", Impact, sans-serif;
+  --color-club: var(--club-primary);
+  --color-accent: var(--club-accent);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-loss: var(--loss);
+  --color-draw: var(--draw);
+}
+
+html {
+  background: var(--club-primary);
+  color: var(--ink);
+}
+
+body {
+  background: var(--club-primary);
+  color: var(--ink);
+  font-family: var(--font-outfit), ui-sans-serif, system-ui, sans-serif;
+}
+
+::selection {
+  background: var(--club-accent);
+  color: var(--club-primary);
+}
+
+:focus-visible {
+  outline: 2px solid var(--club-accent);
+  outline-offset: 3px;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.page-enter {
+  animation: rise 320ms ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page-enter {
+    animation: none;
+  }
+}
